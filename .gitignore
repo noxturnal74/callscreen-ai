@@ -1,0 +1,29 @@
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Local Environment & Secrets
+.env
+.env.local
+.env.production
+.env*.local
+devpost-tokens.txt
+devpost-token.md
+
+# Application State & Cache
+.data/
+.calle-mcp/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+server-out.log
+server-err.log
+
+# OS Files
+.DS_Store
+Thumbs.db
