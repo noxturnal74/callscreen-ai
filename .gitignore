@@ -23,7 +23,10 @@ yarn-debug.log*
 yarn-error.log*
 server-out.log
 server-err.log
+vercel-deploy.log
+vercel-deploy-err.log
 
 # OS Files
 .DS_Store
 Thumbs.db
+.vercel
